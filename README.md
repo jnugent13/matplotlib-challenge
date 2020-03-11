@@ -18,7 +18,7 @@ Capomulin and Ramicane had the two smallest average final tumor volumes of the d
 
 Mouse weight and tumor volume were strongly positively correlated, at least for the mice in the Capomulin trial. We can estimate that an increase of 1g of weight in the mouse will correspond to an increase of about 0.95mm3 in tumor volume.
 
-![Mouse Weights vs. Tumor Size](Images/MouseWeightsvsTumorSize.png)
+![Mouse Weights vs. Tumor Size](Images/MouseWeightvsTumorSize.png)
 
 Capomulin was effective in shrinking the tumor volume of mouse s185  by about half, from 45 mm3 at the start of the study to 23.3mm3 at the end of the study.
 
